@@ -5,7 +5,7 @@
 <template>
   <div class="registration-form">
     <h2>Форма регистрации</h2>
-    <form>
+    <form id="registrationForm" action="#" method="POST">
       <div class="form-group">
         <label for="userName">Имя:</label>
         <input
